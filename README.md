@@ -2,6 +2,7 @@
 - Basic CRUD operations with sample course data
 - Does not connect to database
 Available APIs
+
 | METHOD | URL | Description |
 | --- | --- |
 | GET | /courses | Returns a list of details of all courses |
